@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{A0728372-186D-4F94-84CA-5B7AE0F9875C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bot/Weather.cs">
+    <Files>
+      <File FileName="bot/Program.cs" Line="72" Column="22" />
+      <File FileName="bot/Weather.cs" Line="13" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bot" expanded="True">
+            <Node name="bot" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.bot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
